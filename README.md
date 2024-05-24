@@ -65,18 +65,4 @@
 
 ###
 
-<h1 align="left">🔥   My Stats :</h1>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohit-Thakre&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://github.com/Rohit-Thakre/Rohit-Thakre/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-
-###
-
-![snake gif](https://github.com/Rohit-Thakre/Rohit-Thakre/blob/output/github-contribution-grid-snake.gif)
