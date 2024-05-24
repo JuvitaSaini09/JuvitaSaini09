@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rohit-thakre-313798229/" target="_blank">
+  <a href="https://www.linkedin.com/in/juvita-saini-77291a206/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="rohitthakre369@gmail.com" target="_blank">
+  <a href="juvitasaini@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">I'm Rohit Thakre from Nagpur, Maharashtra<br><br>- 🔭 I’m Fresher Looking for job as Full stack developer<br>- 📚 I'm currently learning Django Framework<br>- ⚡ In my free time I view and write code for my Project.</h3>
+<h3 align="left">I'm Juvita Saini from Pathankot, Punjab,India<br><br>- 🔭 I’m Front End Developer- React JS<br>- 📚 I'm currently Working in a startup in Pune<br>- ⚡ In my free time I view and write code for my own Projects.</h3>
 
 ###
 
