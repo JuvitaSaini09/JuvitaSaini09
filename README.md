@@ -22,8 +22,13 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
+<h3 align="left">
+  Hi, I'm Juvita Saini from India 🌏<br><br>
+  - 🔭 I'm a Frontend Developer specializing in React and Next.js<br>
+  - 💼 I have experience working at a startup in Pune<br>
+  - ⚡ Currently seeking new opportunities while building side projects to enhance my skills
+</h3>
 
-<h3 align="left">I'm Juvita Saini from Pathankot, Punjab,India<br><br>- 🔭 I’m Front End Developer- React JS<br>- 📚 I'm currently Working in a startup in Pune<br>- ⚡ In my free time I view and write code for my own Projects.</h3>
 
 ###
 
