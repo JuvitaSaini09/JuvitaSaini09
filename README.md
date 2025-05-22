@@ -2,7 +2,7 @@
   <img height="150" src="https://lh3.googleusercontent.com/pw/AP1GczOOF28EdCBPD_QUASXeXPr3I-FZszqVILDavYtBfC9FuxiJjiQxGzgruJcpXmZmnryplYKDLwUldCj6-5eSz2RUr_-6EpvhRoT96CW0D8blTFpNJlTzgntPRm7E-0iOViPjOx_zcx0W5IKdpwCKkTUW=w827-h620-s-no-gm?authuser=0"  />
 </div>
 
-###
+<h2 align="center">🚀 Passionate Frontend Developer | Building Projects | ReactJs and NextJs</h2>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/juvita-saini-77291a206/" target="_blank">
@@ -24,10 +24,25 @@
 ###
 <h3 align="left">
   Hi, I'm Juvita Saini from India 🌏<br><br>
-  - 🔭 I'm a Frontend Developer specializing in React and Next.js<br>
-  - 💼 I have experience working at a startup in Pune<br>
-  - ⚡ Currently seeking new opportunities while building side projects to enhance my skills
 </h3>
+<ul>
+
+<li>   🔭 I'm a Frontend Developer specializing in React and Next.js</li>
+<li>  💼 I have experience working at a startup in Pune
+</li>
+<li>⚡ Currently seeking new opportunities while building side projects to enhance my skills
+</li>
+  
+</uk>
+
+<h2 align="left">🧠 Currently Exploring While Building Splitzy</h2>
+<ul>
+  <li>🧩 State Machines & App Logic Flows</li>
+  <li>⚙️ Zustand for Scalable State Management</li>
+  <li>🔗 tRPC & Prisma for full-stack type safety</li>
+  <li>🎨 UI polishing with Tailwind, Framer Motion & responsiveness</li>
+  <li>🧪 Testing with Cypress and component-level validations</li>
+</ul>
 
 
 ###
@@ -66,6 +81,11 @@
   <img width="12" />
 
 </div>
+
+<h2 align="left">🧪 Featured Projects</h2>
+<ul>
+  <li><strong>Splitzy</strong> – Expense sharing app built with NextJs, Zustand, Inngest, Convex, Tailwind (Coming Soon)</li>
+</ul>
 
 ###
 
